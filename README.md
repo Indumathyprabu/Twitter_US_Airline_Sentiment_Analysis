@@ -1,5 +1,4 @@
 # Twitter_US_Airline_Sentiment_Analysis
-# Airline Tweet Sentiment Analyzer
 
 A machine learning project that analyzes customer sentiments from US airline tweets using Natural Language Processing (NLP).
 
